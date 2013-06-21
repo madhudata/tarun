@@ -6,7 +6,7 @@
  * To change this template use File | Settings | File Templates.
  */
 window.onload=function(){
-    document.getElementsByTagName('body').innerHTML="my world";
+    document.getElementsByTagName('body').innerHTML="my world world";
 }
 
 
